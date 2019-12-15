@@ -1,0 +1,6 @@
+**/package
+artificer-transform-materials/
+
+*.zip
+*.tar
+*.json
